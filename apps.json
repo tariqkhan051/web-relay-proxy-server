@@ -1,0 +1,16 @@
+[
+  {
+    "name": "my-app",
+    "status": "running",
+    "port": 57612,
+    "path": "my-server/path/to/my/app",
+    "team": "team-black"
+  },
+  {
+    "name": "my-app-2",
+    "status": "running",
+    "port": 58392,
+    "path": "my-server/path/to/my/app/2",
+    "team": "team-black"
+  }
+]
